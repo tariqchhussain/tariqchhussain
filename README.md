@@ -1,4 +1,14 @@
-Hi, I’m Tariq Hussain (@tariqchhussain)! 👋 
+## Hey there! Welcome to my page!
+Hi! 👋🏾  I’m Tariq Hussain (@tariqchhussain), an enthusastic, self taught, relatively new developer based in Birmingham, UK 🇬🇧!
+
+
+
+[Kaggle](https://www.kaggle.com/tariqchhussain) • [codewars](https://www.codewars.com/users/Riqitch)
+
+
+
+
+
 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
