@@ -1,5 +1,5 @@
 ## Hey there! Welcome to my page!
-Hi! 👋🏾  I’m Tariq Hussain (@tariqchhussain), an enthusastic, self taught, relatively new developer based in Birmingham, UK 🇬🇧!
+Hi! 👋🏾  I’m Tariq Hussain (@tariqchhussain), an enthusiastic, self taught, relatively new developer based in Birmingham, UK 🇬🇧!
 
 Find me on these sites!
 
